@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dasheath
-- 👀 I’m interested in Navigation, Sensor Fusion, Mapping and GIS, Machine Learning
-- 🌱 I’m currently learning Statistics, Detection and Estimation Theory.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Navigation, Embedded and Real-Time software, and Computer Vision
+- 🌱 I’m currently working in Navigation & Hardware-In-The-Loop testing
+- 🎓 I'm also enrolled at Johns Hopkins University via the [Engineering for Professionals](https://ep.jhu.edu/programs/electrical-engineering-computer-engineering/) program
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/heath-mccabe)
 
 <!---
