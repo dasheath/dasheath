@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dasheath
 - 👀 I’m interested in Software Development, Cloud Computing, and all things engineering
-- 🌱 I’m currently working in Navigation (ie GPS/IMUs) & Hardware-In-The-Loop testing
+- 💻 I currently work in backend development for a major financial institution
+- 🌱 I previously worked in Navigation (ie GPS/IMUs) & Hardware-In-The-Loop testing
 - 🎓 I'm also enrolled at Johns Hopkins University via the [Engineering for Professionals](https://ep.jhu.edu/programs/electrical-engineering-computer-engineering/) program
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/heath-mccabe)
 
